@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.walmartlabs.ern.container.ElectrodeMiniAppActivity;
+import com.walmartlabs.ern.container.miniapps.HelpMiniAppActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -17,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this,
-                        ElectrodeMiniAppActivity.class);
+                        HelpMiniAppActivity.class);
                 startActivity(intent);
             }
         });
