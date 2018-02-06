@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\rudie\\Documents\\projects\\electropump-android\\electropump-container\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hy\\values-hy.xml",
+            "outputFile": "/Users/rudieros/Documents/projects/electropump-android/electropump-container/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hy/values-hy.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rudie\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\af6956b5146d05b46ded5d5381b49696\\res\\values-hy\\values-hy.xml",
+                    "source": "/Users/rudieros/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5c37ae977a6483600e45b04100c67cc3/res/values-hy/values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,39 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\rudie\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\14492b620d200c64cf438b23d51997f6\\res\\values-hy\\values-hy.xml",
+                    "source": "/Users/rudieros/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6d5bce0a7c7e54e421dd9f129a78264e/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1945",
+                        "endColumns": "100",
+                        "endOffsets": "2041"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/rudieros/Documents/projects/electropump-android/C:\\Users\\rudie\\Documents\\projects\\electropump-android\\electropump-container\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hy\\values-hy.xml",
+            "map": [
+                {
+                    "source": "/Users/rudieros/Documents/projects/electropump-android/C:\\Users\\rudie\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\af6956b5146d05b46ded5d5381b49696\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,309,419,508,614,729,811,892,977,1084,1191,1290,1400,1507,1607,1764,1863",
+                        "endColumns": "102,100,109,88,105,114,81,80,84,106,106,98,109,106,99,156,98,81",
+                        "endOffsets": "203,304,414,503,609,724,806,887,972,1079,1186,1285,1395,1502,1602,1759,1858,1940"
+                    }
+                },
+                {
+                    "source": "/Users/rudieros/Documents/projects/electropump-android/C:\\Users\\rudie\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\14492b620d200c64cf438b23d51997f6\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

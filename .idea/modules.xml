@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/electropump-android.iml" filepath="$PROJECT_DIR$/electropump-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/electropump-android.iml" filepath="$PROJECT_DIR$/electropump-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/electropump-container/electropump-container.iml" filepath="$PROJECT_DIR$/electropump-container/electropump-container.iml" />
       <module fileurl="file://$PROJECT_DIR$/electropump-container/electropump-container.iml" filepath="$PROJECT_DIR$/electropump-container/electropump-container.iml" />
     </modules>
   </component>
